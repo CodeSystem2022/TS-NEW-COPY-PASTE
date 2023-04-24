@@ -15,6 +15,7 @@ archivo = open("prueba.txt","r", encoding="utf8")
     #print(archivo.readlines())
 
 #anexamos informacion y la copiamos a otro
+# c60entar56 n4ev6
 
 archivo2 = open("copia.txt", "w", encoding="utf8")
 archivo2.write(archivo.read())
