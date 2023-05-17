@@ -5,6 +5,10 @@
 # TS-NEW-COPY-PASTE
 
 
+
+###  ${\color{blue}TS-NEW-COPY-PASTE Python}$ 
+
+
 REPOSITORIO PARA SUBIR TODO LO HECHO EN CLASES
 
 
