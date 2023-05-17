@@ -6,7 +6,7 @@
 
 
 
-###  ${\color{blue}TS-NEW-COPY-PASTE Python}$ 
+# ${\color{blue}TS-NEW-COPY-PASTE}$ 
 
 
 REPOSITORIO PARA SUBIR TODO LO HECHO EN CLASES
