@@ -7,8 +7,7 @@
 
 
 # ${\color{blue}TS-NEW-COPY/PASTE}$ 
-
-${\color{blue}TS-NEW-COPY/PASTE}$
+<span style="font-family: Arial, sans-serif;">${\color{blue}TS-NEW-COPY/PASTE}$</span>
 
 
 REPOSITORIO PARA SUBIR TODO LO HECHO EN CLASES
