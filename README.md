@@ -41,7 +41,7 @@ REPOSITORIO PARA SUBIR TODO LO HECHO EN CLASES
 </table>
 
 
-<table class="table">
+
 | **meses** | **Scrum Master** |
 | ---- | ---- |
 | ABRIL | *MATIAS GIMENEZ* |
@@ -53,7 +53,7 @@ REPOSITORIO PARA SUBIR TODO LO HECHO EN CLASES
 |OCTUBRE| *MATIAS GIMENEZ* |
 |NOVIEMBRE| *SEBASTIAN VERGUECIO* |
 |DICIEMBRE| *FRANCO MESAS* |
-</table>
+
 
 
 
