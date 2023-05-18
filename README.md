@@ -2,7 +2,8 @@
 ![i'm-not-ok-not-ok](https://user-images.githubusercontent.com/106162059/233731615-e9d6d929-ed5d-4b60-8dec-b8049caf5622.gif)
 
  
-![Python-language-1-](https://github.com/CodeSystem2022/TS-NEW-COPY-PASTE/assets/106162059/7068c5cc-71d3-4e29-afb6-59b9a3c16c66)
+
+![png-transparent-functional-programming-in-python-computer-programming-programming-language-python-programming-practice-workshop-program-logo-text-logo-computer-program](https://github.com/CodeSystem2022/TS-NEW-COPY-PASTE/assets/106162059/e58cb774-804d-42d2-83a0-867136cd1abd)
 
 
 
