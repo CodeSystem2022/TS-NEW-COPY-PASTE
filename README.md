@@ -25,6 +25,24 @@ REPOSITORIO PARA SUBIR TODO LO HECHO EN CLASES
 # MODO DE TRABAJO
 
 <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Meses#</th>
+      <th scope="col">Scrum Maste</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      
+    </tr>
+    
+  </tbody>
+</table>
+
+
+<table class="table">
 | **meses** | **Scrum Master** |
 | ---- | ---- |
 | ABRIL | *MATIAS GIMENEZ* |
