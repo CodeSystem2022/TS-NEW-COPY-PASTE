@@ -26,15 +26,10 @@ REPOSITORIO PARA SUBIR TODO LO HECHO EN CLASES
 
 <table class="table">
   <thead>
-    <tr>
-     
-    </tr>
+    
   </thead>
   <tbody>
-    <tr>
-    
-   </tr>
-    
+   
   </tbody>
 </table>
 
