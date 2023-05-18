@@ -27,16 +27,15 @@ REPOSITORIO PARA SUBIR TODO LO HECHO EN CLASES
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">Meses#</th>
+      <th scope="col">Meses</th>
       <th scope="col">Scrum Maste</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      
-    </tr>
+      <th class="table-primary" scope="row">Abril </th>
+      <td>Matias Gimenez</td>
+   </tr>
     
   </tbody>
 </table>
