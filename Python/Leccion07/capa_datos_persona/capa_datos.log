@@ -3,3 +3,35 @@
 10:24:44 AM:WARNING [logger_base.py:16] mensaje a nivel warning
 10:24:44 AM:ERROR [logger_base.py:17] mensaje a nivel error
 10:24:44 AM:CRITICAL [logger_base.py:18] mensaje a nivel critical
+12:30:41 PM:DEBUG [Persona.py:49]  Id Persona:1, Nombre: Juan, Apellodo: Perez, Email: jPEREZ@GMAIL.COM
+02:22:05 PM:DEBUG [Persona.py:49]  Id Persona:1, Nombre: Juan, Apellodo: Perez, Email: jPEREZ@GMAIL.COM
+02:22:05 PM:DEBUG [Persona.py:52]  Id Persona:jose, Nombre: lopes, Apellodo: ljose@gmail.com, Email: None
+02:23:01 PM:DEBUG [Persona.py:49]  Id Persona:1, Nombre: Juan, Apellodo: Perez, Email: jPEREZ@GMAIL.COM
+02:23:01 PM:DEBUG [Persona.py:52]  Id Persona:None, Nombre: jose, Apellodo: lopes, Email: ljose@gmail.com
+02:24:38 PM:DEBUG [Persona.py:49]  Id Persona:1, Nombre: Juan, Apellodo: Perez, Email: jPEREZ@GMAIL.COM
+02:24:38 PM:DEBUG [Persona.py:52]  Id Persona:None, Nombre: jose, Apellodo: lopes, Email: ljose@gmail.com
+02:24:38 PM:DEBUG [Persona.py:55]  Id Persona:1, Nombre: Juan, Apellodo: Perez, Email: jPEREZ@GMAIL.COM
+02:25:05 PM:DEBUG [Persona.py:49]  Id Persona:1, Nombre: Juan, Apellodo: Perez, Email: jPEREZ@GMAIL.COM
+02:25:05 PM:DEBUG [Persona.py:52]  Id Persona:None, Nombre: jose, Apellodo: lopes, Email: ljose@gmail.com
+02:25:05 PM:DEBUG [Persona.py:55]  Id Persona:1, Nombre: Juan, Apellodo: Perez, Email: jPEREZ@GMAIL.COM
+02:25:17 PM:DEBUG [Persona.py:49]  Id Persona:1, Nombre: Juan, Apellodo: Perez, Email: jPEREZ@GMAIL.COM
+02:25:17 PM:DEBUG [Persona.py:52]  Id Persona:None, Nombre: jose, Apellodo: lopes, Email: ljose@gmail.com
+02:25:17 PM:DEBUG [Persona.py:55]  Id Persona:1, Nombre: None, Apellodo: None, Email: None
+03:02:20 PM:ERROR [conexion.py:27] ocurrio un error: connection to server at "127.0.0.1", port 5050 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+03:03:06 PM:ERROR [conexion.py:27] ocurrio un error: 
+03:03:16 PM:ERROR [conexion.py:27] ocurrio un error: 
+03:03:57 PM:ERROR [conexion.py:27] ocurrio un error: connection to server at "127.0.0.1", port 5050 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+03:06:15 PM:DEBUG [conexion.py:24] conexion exitosa <connection object at 0x000002E8C4F62AC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+03:07:26 PM:ERROR [conexion.py:27] ocurrio un error: 
+03:08:14 PM:ERROR [conexion.py:27] ocurrio un error: 
+03:08:53 PM:ERROR [conexion.py:27] ocurrio un error: 
+03:09:14 PM:ERROR [conexion.py:27] ocurrio un error: 
+03:09:54 PM:DEBUG [conexion.py:24] conexion exitosa <connection object at 0x0000028A44452AC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+03:10:02 PM:ERROR [conexion.py:27] ocurrio un error: 
+03:10:12 PM:DEBUG [conexion.py:24] conexion exitosa <connection object at 0x000002995A782AC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+03:16:12 PM:DEBUG [conexion.py:24] conexion exitosa <connection object at 0x000001AFA9B12AC0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+03:16:12 PM:DEBUG [conexion.py:38] se abrio correctamente el cursor:<cursor object at 0x000001AFABD59380; closed: 0>
