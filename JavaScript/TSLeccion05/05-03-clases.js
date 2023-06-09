@@ -93,6 +93,43 @@ console.log(empleado1.toString());
 
 console.log(persona1.toString());
 
+//persona1.saludar(); no se utiliza desde el objeto
+
+Persona.saludar();
+Persona.saludar2(persona1);
+
+Empleado.saludar();
+Empleado.saludar2(empleado1);
+
+//console.log(persona1.contadorObjetosPersonas);
+
+//console.log(Persona.contadorObjetosPersonas);
+//console.log(Empleado.contadorObjetosPersonas);
+
+//console.log(persona1.email);
+//console.log(empleado1.email);
+
+console.log(Persona.email);//no se puede acceder  desde la clase por que no es statico
+
+console.log(persona1.toString());
+console.log(empleado1.toString());
+console.log(empleado1.toString());
+console.log(Persona.contadorPersonas);
+
+let persona3 =new Persona("carla", "pertosi");
+console.log(persona3.toString());
+console.log(Persona.contadorPersonas);
+
+console.log(Persona.MAX_OBJ);
+Persona.MAX_OBJ=10;//no se puede modificar su valor
+console.log(Persona.MAX_OBJ);
+
+let persona4 = new Persona("franco", "Dias");
+console.log(persona4.toString());
+
+let persona5 = new Persona("Liliana", "Paz");
+console.log(persona5.toString());
+
 
 
 
